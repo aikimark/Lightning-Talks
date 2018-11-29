@@ -4,5 +4,6 @@
 Name | Topic
 --- | --- 
 Rob Zelt | Awk this way
+Mark Hutchinson | Regex...WTF!
 <your name here> | <your topic here>
   
